@@ -1,3 +1,6 @@
+server:
+  origin: https://jaman.com
+
 db:
   synchronize: false
   
